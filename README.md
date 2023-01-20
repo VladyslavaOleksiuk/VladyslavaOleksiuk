@@ -1,5 +1,5 @@
 ### Greetings
-I am a candidate for a Manual QA Engineer position. My experience includes, but is not limited to: Web, Mobile (IOS, Android), Desktop(Windows, MacOS), browser extension. I have strong knowledge of testing types, levels and principles; SDLC, STLC; Agile methodology; SCRUM framework; client-server architecture. I also have experience with Postman, TestRail, Jira, Confluence, Trello, Chrome Developer Tools, ProxyMan, Charles and more.
+I am a Manual QA Engineer. My experience includes, but is not limited to: Web, Mobile (IOS, Android), Desktop(Windows, MacOS), browser extension. I have strong knowledge of testing types, levels and principles; SDLC, STLC; Agile methodology; SCRUM framework; client-server architecture. I also have experience with Postman, TestRail, Jira, Confluence, Trello, Chrome Developer Tools, ProxyMan, Charles and more.
 I feel comfortable with establishing productive relationships.
 
 Kind regards, 
